@@ -3,9 +3,9 @@ package yose;
 import com.gargoylesoftware.htmlunit.Page;
 import com.gargoylesoftware.htmlunit.WebClient;
 import com.gargoylesoftware.htmlunit.WebResponse;
-import org.ericminio.htmlunit.FeatureDescription;
 import org.junit.Before;
 import org.junit.Test;
+import utils.FeatureDescription;
 
 import java.io.IOException;
 
