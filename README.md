@@ -1,3 +1,5 @@
+[![Travis Build Status](https://travis-ci.org/yosethegame/java-servlet2.5-example.svg?branch=master)](https://travis-ci.org/yosethegame/java-servlet2.5-example)
+
 I pass the First Web service challenge :)
 
 ## Get ready
